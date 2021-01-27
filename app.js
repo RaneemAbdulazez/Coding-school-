@@ -3,11 +3,11 @@
 //At least one dynamic component should be based on user input.
 
 //At least one dynamic component should use a conditional statement to determine the output.
-var userAge='';
-var techPerson='';
+
+
 var advice1='python is best for you ';
 var advice2='html is best for you ';
-var userPreference='';
+
 
 alert ("you'e welcom to coding school") 
 var userName = prompt('whats you name?');
