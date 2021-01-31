@@ -1,0 +1,83 @@
+
+*{
+    margin: 10px;
+
+}
+
+header{
+    margin: 0px 0px 20px 60px;
+   
+
+    background-color: #2FE076
+}
+header h1{
+    letter-spacing: 2px;
+    font-size: 75px;
+    margin: 20px 0px 20px 60px;
+    font-family:"Brush Script MT", cursive;
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    
+       
+   
+}
+
+a:visited {
+    color: purple;
+  }
+
+
+header nav ul li{
+    
+    display: inline-block;
+    padding: 30px;
+    
+    
+    
+    
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+img{
+     float: right;
+    width: 50%;
+    margin: 20px;
+}
+
+    
+
+#para1{
+
+    color: rgb(236, 13, 13);
+    font-size: large;
+  
+    font-family: cursive;
+    font-family: fantasy;
+
+    
+}
+
+/* class */
+
+#para1{
+    text-align:start;
+    vertical-align: bottom;
+    
+    font:lighter;
+    
+}
+
+footer{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
