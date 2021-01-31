@@ -35,9 +35,11 @@ while ( isNaN(number))
     
     alert ("plz enter your age as a number ") ;
     userName = prompt('how old are you?');
+    agetest();
 }
 
-
+function agetest()
+{
 if (number<18){
     document.write("<h1> You are sweet young person </h1>")
 
@@ -45,17 +47,12 @@ if (number<18){
     {
         b=i+1
     document.write(candel+b);
-
+        return 
     }
 }
 
 else {
     
-
-
-
-
-
     if (window.confirm("are you a tech person ?")==true)
     {
         techPerson=true
@@ -90,7 +87,7 @@ else {
     }
     }
 
-
+}
 // Show an image related to your page’s topic, repeated within your page.
 // Prompt the user with a relevant question for a number (e.g.: “How many cats do you want?” or “What star rating would you give, 1-5?”)
 // Use a loop in your JavaScript code to show the image that many times.
