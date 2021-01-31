@@ -6,14 +6,14 @@
 
 
 
-//WELCOME
-// alert ("you'e welcom to coding school") ;
-// var userName = prompt('whats you name?');
-// validationofname(userName);
-// alert("let's see how old are?");
-// var age=prompt("please enter your age "+userName+"!");
-// validationofage(age);
-// agetest(age);
+WELCOME
+alert ("you'e welcom to coding school") ;
+var userName = prompt('whats you name?');
+validationofname(userName);
+alert("let's see how old are?");
+var age=prompt("please enter your age "+userName+"!");
+validationofage(age);
+agetest(age);
 
 
 
