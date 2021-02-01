@@ -6,7 +6,7 @@
 
 
 
-WELCOME
+// WELCOME
 alert ("you'e welcom to coding school") ;
 var userName = prompt('whats you name?');
 validationofname(userName);
